@@ -36,8 +36,7 @@
     "url": "https://github.com/LeCiseau/reactnativeemarsys/issues"
   },
   "peerDependencies": {
-    "react-native": "*",
-    "react-native-windows": "*"
+    "react-native": "*"
   },
   "homepage": "https://github.com/LeCiseau/reactnativeemarsys#readme"
 }
