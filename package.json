@@ -1,5 +1,5 @@
 {
-  "name": "@leciseau/react-native-emarsys",
+  "name": "@dres/react-native-emarsys",
   "version": "1.0.2",
   "description": "A simple bridge between emarsys sdk and react-native",
   "main": "index.js",
@@ -36,7 +36,7 @@
     "url": "https://github.com/LeCiseau/reactnativeemarsys/issues"
   },
   "peerDependencies": {
-    "react-native": "^0.60.2",
+    "react-native": ">=^0.60.2",
     "react-native-windows": "0.41.0-rc.1"
   },
   "homepage": "https://github.com/LeCiseau/reactnativeemarsys#readme"
