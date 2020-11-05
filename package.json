@@ -36,7 +36,7 @@
     "url": "https://github.com/LeCiseau/reactnativeemarsys/issues"
   },
   "peerDependencies": {
-    "react-native": ">=^0.60.2",
+    "react-native": "*",
     "react-native-windows": "0.41.0-rc.1"
   },
   "homepage": "https://github.com/LeCiseau/reactnativeemarsys#readme"
